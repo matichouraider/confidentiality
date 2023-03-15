@@ -1,2 +1,2 @@
-# confidentiality
-règles de confidentialité des applications
+# Rappel Conso  
+Cette application ne collecte aucune donnée utilisateur.
